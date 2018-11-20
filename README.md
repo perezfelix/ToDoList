@@ -1,24 +1,10 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<h1 align="center">To do list</h1>
+<h2 align="center">Félix Perez</h2>
+<p>Pour voir le site, cliquez <a href="https://todolist-thp-lille.herokuapp.com/">ICI</a></p>
+<p>Pour avoir le fichier en local :</p>
+<ul>
+	<li>Clonez ce repo</li>
+	<li>Bundle install</li>
+	<li>Faîtes les commandes /db:create/ /db:migrate/ /db:seed/</li>
+	<li>Enjoy</li>
+</ul>
